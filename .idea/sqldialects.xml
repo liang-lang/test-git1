@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c1f9ba1c-9e12-4b61-a647-879c0932c55b/ADS.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c1f9ba1c-9e12-4b61-a647-879c0932c55b/DWD09.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c1f9ba1c-9e12-4b61-a647-879c0932c55b/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/offline_pyspark/wuliu/ADS.sql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/offline_pyspark/wuliu/DIM.sql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/offline_pyspark/wuliu/DWD.sql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/offline_pyspark/wuliu/DWS.sql" dialect="HiveQL" />
+  </component>
+</project>
